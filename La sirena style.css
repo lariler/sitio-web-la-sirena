@@ -1,0 +1,57 @@
+head {
+    text-align: center; 
+    color: rgb(99, 99, 196);
+    font-size: 90px;
+  }
+
+
+.imagen {
+    font-size: 20px;
+}
+
+body {background-color: #ffffff ;
+      text-align: center;
+}
+
+* {
+    text-align: center;
+    color: blue;
+}
+
+.informacion {
+    font-size: 20px;
+    font-family: Arial;
+}
+
+.productos {
+    font-family: 'Courier New';
+}
+
+.parrafo {
+    font-family: Georgia;
+    font-size: 20px;
+}
+
+.Precio {
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.cuadro1 {
+    width: 300px;
+    height: 300px;
+    background-color: #ffe64c;
+    margin: 5px;
+    border-radius: 10%; 
+}
+
+.cuadro2, .cuadro3 {
+    width: 300px;
+    height: 410px;
+    background-color: #ffe64c;
+    margin: 5px;
+    border-radius: 10%; 
+}
+
+
+
